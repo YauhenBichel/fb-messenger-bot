@@ -1,7 +1,7 @@
 {
   "name": "ticketsfbmsgbot",
   "author": "Yauhen Bichel",
-  "contributors": "Marina Miranovich", "Sveta Kruglova", "Макс Сахаров"
+  "contributors": "Marina Miranovich", "Sveta Kruglova", "Макс Сахаров",
   "version": "0.0.1",
   "private": true,
   "scripts": {
