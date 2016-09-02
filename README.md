@@ -1,2 +1,1 @@
-# fb-messenger-bot
-Facebook messenger bot with ticketsmaster API
+A facebook messenger bot, which uses ticketmaster API

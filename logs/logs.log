@@ -1,0 +1,9 @@
+[2016-07-20 02:19:27.515] [INFO] default - The app listening on port 3000.
+[2016-07-20 02:24:46.788] [INFO] default - The app listening on port 3000.
+[2016-07-20 02:30:33.697] [INFO] default - The app listening on port 3000.
+[2016-07-20 02:38:27.181] [INFO] default - The app listening on port 3000.
+[2016-07-20 02:42:59.501] [INFO] default - The app listening on port 3000.
+[2016-07-20 09:30:02.673] [INFO] default - The app listening on port ${port}.
+[2016-07-20 09:34:23.957] [INFO] default - The app listening on port ${port}.
+[2016-07-20 09:39:00.870] [INFO] default - The app listening on port ${port}.
+[2016-07-20 14:25:07.050] [INFO] default - The app listening on port:  3000

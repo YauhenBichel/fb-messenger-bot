@@ -1,0 +1,21 @@
+{
+  "name": "ticketsfbmsgbot",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.1",
+    "config": "^1.20.4",
+    "express": "^4.14.0",
+    "forever": "^0.15.2",
+    "json": "^9.0.4",
+    "lodash": "^4.13.1",
+    "log4js": "^0.6.37",
+    "request": "^2.72.0",
+    "rest": "^2.0.0",
+    "ticketmaster": "^0.3.0"
+  }
+}
