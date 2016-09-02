@@ -1,7 +1,23 @@
 {
   "name": "ticketsfbmsgbot",
-  "author": "Yauhen Bichel",
-  "contributors": "Marina Miranovich", "Sveta Kruglova", "Макс Сахаров",
+  "author": {
+    "name": "Yauhen Bichel",
+    "email": "bichel.eugen@gmail.com",
+    "url": "https://github.com/EugeneBichel"
+  },
+  "contributors": [
+    {
+      "name": "Marina Miranovich",
+      "url": "https://github.com/Marina-Miranovich"
+    },
+    {
+      "name": "Sveta Kruglova",
+      "url": "https://github.com/skruglova"
+    },
+    {
+      "name": "Макс Сахаров"
+    }
+  ],
   "version": "0.0.1",
   "private": true,
   "scripts": {
