@@ -14,6 +14,6 @@ jobs:
     steps:
       # Pin the commit, not the tag: this job runs on pull_request_target
       # with pull-requests: write.
-      - uses: YauhenBichel/merge-cheer@f9fa79020cf18b41d92e7ec4d9cc1636def6aaf4 # v1.5.0
+      - uses: YauhenBichel/merge-cheer@90d7b7a0fcfd751ae4523c251888cafdf882b689 # min credits
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
