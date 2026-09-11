@@ -23,6 +23,10 @@ See the [full contributor graph](https://github.com/YauhenBichel/fb-messenger-bo
 Thank you to everyone who has helped.
 
 <!-- readme: contributors,bots/- -start -->
+<p align="center">
+  <a href="https://github.com/YauhenBichel" title="Yauhen Bichel" aria-label="Yauhen Bichel"><img src=".github/faces/YauhenBichel.svg" width="87" height="99" alt="Yauhen Bichel" /></a>
+</p>
+<p align="center"><em>A single contributor proudly displayed their achievements on the wall.</em></p>
 <!-- readme: contributors,bots/- -end -->
 
 Filled from GitHub commits (bots omitted). Live demo: [readme-contributors](https://github.com/YauhenBichel/readme-contributors#live-demo).
