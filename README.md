@@ -26,7 +26,7 @@ Thank you to everyone who has helped.
 <p align="center">
   <a href="https://github.com/YauhenBichel" title="Yauhen Bichel" aria-label="Yauhen Bichel"><img src=".github/faces/YauhenBichel.svg" width="87" height="99" alt="Yauhen Bichel" /></a>
 </p>
-<p align="center"><em>The contributor's wall showcases the achievements of one dedicated individual.</em></p>
+<p align="center"><em>The contributors wall proudly displays the names of those who have made a difference.</em></p>
 <!-- readme: contributors,bots/- -end -->
 
 Filled from GitHub commits (bots omitted). Live demo: [readme-contributors](https://github.com/YauhenBichel/readme-contributors#live-demo).
