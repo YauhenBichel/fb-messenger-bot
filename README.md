@@ -10,6 +10,12 @@ Facebook messenger bot using Ticketmaster API.
 
 ---
 
+## Configuration
+
+Set these environment variables; nothing secret belongs in `config/default.json`:
+
+`MESSENGER_APP_SECRET`, `MESSENGER_VALIDATION_TOKEN`, `MESSENGER_PAGE_ACCESS_TOKEN`, `ticketmasterAPIKey`.
+
 ## Contributors
 
 Thank you to everyone who has helped this project. Your code, reviews, issues, and pull requests are appreciated.
